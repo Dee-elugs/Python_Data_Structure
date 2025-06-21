@@ -1,12 +1,12 @@
-# 🐍 Python Data Structures & Algorithm Practice
+## 🐍 **Python Data Structures & Algorithm Practice**
 
 A hands-on Python project focused on strengthening your foundational programming skills through a variety of exercises centered around core data structures and algorithms.
 
-> 💻 Developed using **Visual Studio Code**
+> ## 💻  **Developed using** **Visual Studio Code**
 
 ---
 
-## 🎯 Objective
+## 🎯 **Objective**
 
 This project is designed to help learners:
 - Practice manipulating Python’s built-in data structures such as **lists**, **tuples**, **dictionaries**, and **sets**.
@@ -15,7 +15,7 @@ This project is designed to help learners:
 
 ---
 
-## 📦 What's Included
+## 📦 **What's Included**
 
 The exercises in this repository explore:
 - Mathematical operations using lists
@@ -30,7 +30,7 @@ Each script is self-contained and focused on a specific programming concept, mak
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 **Tech Stack**
 
 - **Language**: Python 3.x  
 - **IDE**: Visual Studio Code  
@@ -38,13 +38,17 @@ Each script is self-contained and focused on a specific programming concept, mak
 
 ---
 
-💡 Learning Experience
+## 💡 **Learning Experience**
 This repository helped me practice and reinforce my Python fundamentals using hands-on problems. From simple list operations to more thoughtful tasks like merging dictionaries and sorting by custom keys, each exercise was a stepping stone toward writing more readable and logical Python code.
+
 ---
 
-🤝 Contributions
+## 🤝  **Contributions**
+
 Pull requests and suggestions are welcome! If you'd like to add more exercises, improve the structure, or refactor solutions, feel free to fork the repo and contribute.
----
 
-🙌 Acknowledgments
+---
+## 🙌  **Acknowledgments**
 Special thanks to the open-source Python community for consistently providing insightful tutorials, documentation, and inspiration.
+
+## 🔗 **Links**
